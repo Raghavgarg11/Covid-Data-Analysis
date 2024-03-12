@@ -1,36 +1,13 @@
-<div id="top"></div>
 
+
+![Dashboard](https://github.com/Raghavgarg11/Covid-Data-Analysis/assets/163013038/efff1f1c-a0fd-4e0b-810e-11921d32e666)
 
 
 <!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a >
-    <img src="p1.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h3 align="center">Hello Everyone ! Welcome to this Project Section !</h3>
-
-  <p align="center">
-    <strong>I'm Soufiane from Morocco. I'm an industrial engineering student and a machine learning and data science enthusiast. I also build web apps both frontend and backend. </strong>
-    <br />
-    <br />
-    Please scroll down to know more about this project
-    <br />
-    <a ><strong>Explore other projects »</strong></a>
-    <br />
-    <br />
-    <a >View Demo</a>
-    ·
-    <a >Report Bug</a>
-    ·
-    <a >Request Feature</a>
-  </p>
-</div>
 
 <!-- Add banner here -->
 
-![Banner]
 
 # SQL and Visualization Projects
 
@@ -38,22 +15,6 @@
 
 In this project I did some data exploration analysis Covid Data using SQL and Python. Then I used Tableau for further analysis and Data Visualization.
 
-# Project-Preview
-
-<!-- Add a demo for your project -->
-
-Here is demo of the final resualts I got in this project
-
-# Table of contents
-
-- [Demo-Preview](#demo-preview)
-- [Table of contents](#table-of-contents)
-- [Built With](#Built-With)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contribute](#contribute)
-- [License](#license)
-- [Footer](#footer)
 
 # Built With
 
