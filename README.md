@@ -24,7 +24,7 @@ In this project I did some data exploration analysis Covid Data using SQL and Py
 - Excel
 - SQL
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+
 
 
 
